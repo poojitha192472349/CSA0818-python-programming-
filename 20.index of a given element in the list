@@ -1,0 +1,9 @@
+
+my_list = [10, 20, 30, 40, 50]
+element = int(input("Enter the element to find its index: "))
+index = find_element_index(my_list, element)
+
+if index != -1:
+    print(f"The index of {element} is: {index}")
+else:
+    print(f"{element} is not in the list.")
