@@ -1,0 +1,4 @@
+def largest_number(numbers):
+    return max(numbers)
+numbers = [10, 25, 5, 40, 15]
+print("The largest number in the list is:", largest_number(numbers))
