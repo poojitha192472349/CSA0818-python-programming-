@@ -1,0 +1,6 @@
+
+word = input("Enter a word or phrase: ")
+if is_palindrome(word):
+    print("It is a palindrome.")
+else:
+    print("It is not a palindrome.")
