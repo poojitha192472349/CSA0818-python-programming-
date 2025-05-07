@@ -1,0 +1,4 @@
+
+my_list = [1, 2, 2, 3, 3, 3, 4, 5, 1]
+frequency = element_frequency(my_list)
+print("Frequency of elements:", frequency)
