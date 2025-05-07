@@ -1,0 +1,4 @@
+
+n = int(input("Enter a number: "))
+result = sum_of_squares(n)
+print(f"Sum of squares of the first {n} natural numbers is: {result}")
